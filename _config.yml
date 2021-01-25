@@ -2,3 +2,6 @@ theme: jekyll-theme-slate
 
 title: René Parlange
 description: Ph.D. student in Computer Science. Instituto Nacional de Astrofísica, Óptica y Electrónica.
+
+show_downloads: true
+google_analytics: 72933942
