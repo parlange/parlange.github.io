@@ -9,7 +9,7 @@
 
 ### Large Synoptic Survey Telescope (LSST) | [https://www.lsst.org/](https://www.lsst.org/)
 
-Dark Energy Science Colaboration (DESC), Strong Lensing Science Colaboration (SLSC)
+Dark Energy Science Colaboration (DESC) | Strong Lensing Science Colaboration (SLSC)
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=parlange&show_icons=true"/>
