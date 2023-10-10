@@ -4,7 +4,7 @@
 
 ## PhD student in Computer Science, Universidad Autónoma de San Luis Potosí (UASLP)
 
-### Large Synoptic Survey Telescope (LSST) [[LSST](https://www.lsst.org/)](https://www.lsst.org/ "Large Synoptic Survey Telescope")
+### Large Synoptic Survey Telescope (LSST) [[LSST](https://www.lsst.org/)](https://www.lsst.org/)
 
 ### Vera C. Rubin Observatory [https://rubinobservatory.org/](https://rubinobservatory.org/)
 
