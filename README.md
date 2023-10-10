@@ -4,6 +4,7 @@
 ### INAOE | [https://www.inaoep.mx/](https://www.inaoep.mx/)
 
 ## PhD student in Computer Science, Universidad Autónoma de San Luis Potosí (UASLP)
+### UASLP | [https://www.uaslp.mx/](https://www.uaslp.mx/)
 
 ### Vera C. Rubin Observatory | [https://rubinobservatory.org/](https://rubinobservatory.org/)
 
