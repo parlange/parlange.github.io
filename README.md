@@ -1,6 +1,8 @@
 ## MSc in Computer Science, Instituto Nacional de Astrofísica, Óptica y Electrónica (INAOE)
 ### INAOE | [https://www.inaoep.mx/](https://www.inaoep.mx/)
 ### CEMIE-Eólico | [Proyecto P12](https://www.inaoep.mx/noticias/?noticia=669&anio=2019)
+### TTU | [https://www.ttu.edu/](https://www.ttu.edu/)
+
 
 
 ## PhD student in Computer Science, Universidad Autónoma de San Luis Potosí (UASLP)
