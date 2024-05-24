@@ -7,7 +7,7 @@
 ### PhD student in Computer Science, Universidad Autónoma de San Luis Potosí (UASLP)
 #### UASLP | [https://www.uaslp.mx/](https://www.uaslp.mx/)
 
-#### Large Synoptic Survey Telescope (LSST) | [https://www.lsst.org/](https://www.lsst.org/)
+#### Large Synoptic Survey Telescope (LSST) | [https://www.lsst.org/](https://www.lsst.org/) | [https://www.lsstdesc.org/](https://www.lsstdesc.org/) 
 
 Dark Energy Science Collaboration (DESC),  Strong Lensing Science Collaboration (SLSC)
 
