@@ -5,6 +5,7 @@
 
 ### PhD student in Computer Science, Universidad Autónoma de San Luis Potosí (UASLP)
 #### UASLP | [https://www.uaslp.mx/](https://www.uaslp.mx/)
+#### Instituto de Astronomía, UNAM | [https://astronomia.unam.mx/](https://astronomia.unam.mx/)
 
 #### Large Synoptic Survey Telescope (LSST) | [https://www.lsst.org/](https://www.lsst.org/) | [https://www.lsstdesc.org/](https://www.lsstdesc.org/) 
 
