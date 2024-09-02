@@ -8,12 +8,12 @@
 
 #### Large Synoptic Survey Telescope (LSST) | [https://www.lsst.org/](https://www.lsst.org/) | [https://www.lsstdesc.org/](https://www.lsstdesc.org/) 
 
-![LSST](https://github.com/parlange/parlange.github.io/blob/main/lsst-camera.jpeg)
+![LSST](https://github.com/parlange/parlange.github.io/blob/main/images/lsst-camera.jpeg)
 
 Dark Energy Science Collaboration (DESC),  Strong Lensing Science Collaboration (SLSC)
 
 #### Vera C. Rubin Observatory | [https://rubinobservatory.org/](https://rubinobservatory.org/)
 
-![Vera C. Rubin Observatory](https://github.com/parlange/parlange.github.io/blob/main/lsst.tif)
+![Vera C. Rubin Observatory](https://github.com/parlange/parlange.github.io/blob/main//images/vera-rubin-observatory.jpeg)
 
 <img src="https://github-readme-stats.vercel.app/api?username=parlange&show_icons=true"/>
