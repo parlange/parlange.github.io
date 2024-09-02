@@ -7,6 +7,9 @@
 #### CEMIE-Eólico | [Proyecto P12](https://www.inaoep.mx/noticias/?noticia=669&anio=2019)
 #### Texas Tech University (TTU) | [https://www.ttu.edu/](https://www.ttu.edu/)
 
+<img src="https://raw.githubusercontent.com/parlange/parlange.github.io/main/images/cemie-eolico-p12.jpg" alt="LSST"/>
+
+
 ### PhD student in Computer Science, Universidad Autónoma de San Luis Potosí (UASLP)
 #### UASLP | [https://www.ingenieria.uaslp.mx/](https://www.ingenieria.uaslp.mx/)
 #### Instituto de Astronomía, UNAM | [https://astronomia.unam.mx/](https://astronomia.unam.mx/)
