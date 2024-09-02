@@ -14,6 +14,6 @@ Dark Energy Science Collaboration (DESC),  Strong Lensing Science Collaboration 
 
 #### Vera C. Rubin Observatory | [https://rubinobservatory.org/](https://rubinobservatory.org/)
 
-<img src="https://raw.githubusercontent.com/parlange/parlange.github.io/main/images/lsst.png" alt="Vera C. Rubin Observatory"/>
+<img src="https://raw.githubusercontent.com/parlange/parlange.github.io/main/images/vera-rubin-observatory.jpg" alt="Vera C. Rubin Observatory"/>
 
 <img src="https://github-readme-stats.vercel.app/api?username=parlange&show_icons=true"/>
