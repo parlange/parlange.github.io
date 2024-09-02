@@ -3,7 +3,7 @@
 #### Science Faculty | [http://www.fc.uaslp.mx/](http://www.fc.uaslp.mx/)
 
 ### MSc in Computer Science, Instituto Nacional de Astrofísica, Óptica y Electrónica (INAOE)
-#### INAOE | [https://www.inaoep.mx/](https://www.inaoep.mx/)
+#### Computer Science Department at INAOE | [https://www.inaoep.mx/](https://www.inaoep.mx/)
 #### Texas Tech University (TTU) | [https://www.ttu.edu/](https://www.ttu.edu/)
 #### CEMIE-Eólico | [Proyecto P12](https://www.inaoep.mx/noticias/?noticia=669&anio=2019)
 
