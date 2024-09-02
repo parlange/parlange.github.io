@@ -1,17 +1,25 @@
-### MSc in Computer Science, Instituto Nacional de Astrofísica, Óptica y Electrónica (INAOE)
-#### INAOE | [https://www.inaoep.mx/](https://www.inaoep.mx/)
-#### CEMIE-Eólico | [Proyecto P12](https://www.inaoep.mx/noticias/?noticia=669&anio=2019)
-#### Texas Tech University (TTU) | [https://www.ttu.edu/](https://www.ttu.edu/)
+## Academic Background
 
+### MSc in Computer Science
+**Instituto Nacional de Astrofísica, Óptica y Electrónica (INAOE)**  
+[INAOE Website](https://www.inaoep.mx/)
 
-### PhD student in Computer Science, Universidad Autónoma de San Luis Potosí (UASLP)
-#### UASLP | [https://www.uaslp.mx/](https://www.uaslp.mx/)
+- **CEMIE-Eólico, Proyecto P12**  
+  Contributed to [Proyecto P12](https://www.inaoep.mx/noticias/?noticia=669&anio=2019) as part of the CEMIE-Eólico research initiative.
 
-#### Large Synoptic Survey Telescope (LSST) | [https://www.lsst.org/](https://www.lsst.org/) | [https://www.lsstdesc.org/](https://www.lsstdesc.org/) 
+- **Texas Tech University (TTU) Collaboration**  
+  Participated in an exchange program with [Texas Tech University](https://www.ttu.edu/).
 
-Dark Energy Science Collaboration (DESC),  Strong Lensing Science Collaboration (SLSC)
+### PhD in Computer Science
+**Universidad Autónoma de San Luis Potosí (UASLP)**  
+[UASLP Website](https://www.uaslp.mx/)
 
-#### Vera C. Rubin Observatory | [https://rubinobservatory.org/](https://rubinobservatory.org/)
+- **Large Synoptic Survey Telescope (LSST)**  
+  Active member of the [LSST](https://www.lsst.org/) and the [Dark Energy Science Collaboration (DESC)](https://www.lsstdesc.org/), contributing to the Strong Lensing Science Collaboration (SLSC).
 
+- **Vera C. Rubin Observatory**  
+  Engaged in research related to the [Vera C. Rubin Observatory](https://rubinobservatory.org/).
 
-<img src="https://github-readme-stats.vercel.app/api?username=parlange&show_icons=true"/>
+## GitHub Activity
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=parlange&show_icons=true)
