@@ -1,6 +1,6 @@
 ### Electronics Engineer, Universidad Autónoma de San Luis Potosí (UASLP)
 #### UASLP | [http://www.uaslp.mx/](http://www.uaslp.mx/)
-#### Science Department | [http://www.fc.uaslp.mx/](http://www.fc.uaslp.mx/)
+#### Science Faculty | [http://www.fc.uaslp.mx/](http://www.fc.uaslp.mx/)
 
 ### MSc in Computer Science, Instituto Nacional de Astrofísica, Óptica y Electrónica (INAOE)
 #### INAOE | [https://www.inaoep.mx/](https://www.inaoep.mx/)
