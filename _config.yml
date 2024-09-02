@@ -1,5 +1,4 @@
-theme: jekyll-theme-modernist
-
+theme: pages-themes/hacker@v0.2.0
 title: René Parlange
 description: PhD student in Computer Science
 show_downloads: false
