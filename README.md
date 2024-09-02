@@ -5,7 +5,7 @@
 ### MSc in Computer Science, Instituto Nacional de Astrofísica, Óptica y Electrónica (INAOE)
 #### Computer Science Department at INAOE | [https://www.inaoep.mx/](https://www.inaoep.mx/)
 #### Mechanical Engineering Department at Texas Tech University (TTU) | [https://www.ttu.edu/](https://www.ttu.edu/)
-#### CEMIE-Eólico | [Proyecto P12](https://www.inaoep.mx/noticias/?noticia=669&anio=2019)
+#### CEMIE-Eólico | [Project P12](https://www.inaoep.mx/noticias/?noticia=669&anio=2019)
 
 <img src="https://raw.githubusercontent.com/parlange/parlange.github.io/main/images/cemie-eolico-p12.jpg" alt="LSST"/>
 
