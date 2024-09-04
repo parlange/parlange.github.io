@@ -14,7 +14,7 @@
 #### UASLP | [https://www.ingenieria.uaslp.mx/](https://www.ingenieria.uaslp.mx/)
 #### Instituto de Astronomía, UNAM | [https://astronomia.unam.mx/](https://astronomia.unam.mx/)
 #### Large Synoptic Survey Telescope (LSST) | [https://www.lsst.org/](https://www.lsst.org/)
-#### Dark Energy Science Collaboration ([DESC](https://www.lsstdesc.org/)) | Strong Lensing Science Collaboration ([SLSC](https://sites.google.com/view/lsst-stronglensing))  
+#### Dark Energy Science Collaboration ([DESC](http://www.lsstdesc.org/)) | Strong Lensing Science Collaboration ([SLSC](https://sites.google.com/view/lsst-stronglensing))  
 
 <img src="https://raw.githubusercontent.com/parlange/parlange.github.io/main/images/lsst-camera.jpeg" alt="LSST"/>
 
